@@ -1,0 +1,18 @@
+.carousel .item{
+    width:100vw;
+    height:100vh;
+    background-image:url("../image5/slide01.jpg");
+    background-size:cover;
+}
+.carousel .item-2{
+    background-image:url("../image5/slide02.jpg");
+}
+.carousel .item-3{
+    background-image:url("../image5/slide03.jpg");
+}
+.carousel .item-4{
+    background-image:url("../image5/slide04.jpg");
+}
+.malla{
+    background-image:url("../image5/slide04.jpg");
+}
